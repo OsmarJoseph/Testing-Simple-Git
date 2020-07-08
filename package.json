@@ -1,0 +1,10 @@
+{
+  "name": "digital-asset-repository-api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "simple-git": "^2.12.0"
+  }
+}
